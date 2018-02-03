@@ -1,4 +1,0 @@
-wordA
-wordB
-wordC
-wordD
